@@ -64,5 +64,11 @@ Here are the accepted parameters :
 | sideWidth  | double | 0 | Triangle's side width | 
 
 
+## example
+
+<img src="assets/asset.png" width="100" height="300">
+
+
+
 
 
