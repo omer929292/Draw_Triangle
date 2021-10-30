@@ -30,13 +30,6 @@ Draw a triangle by setting 2 sides and an angle. Set an offset (-1<x<1,-1<y<1) f
 * Get triangle's area
 
 
-
-
-## Getting started
-
-To use this package, add draw_triangle as a dependency in your pubspec.yaml file.
-
-
 ## Usage
 
 ```
