@@ -48,7 +48,7 @@ Draw_Triangle(
         sideWidth: 5,
         sideColor: Colors.black,
         rotate:45
-	    offset:Offset(0,0)
+	offset:Offset(0,0)
 );
 ```
 
