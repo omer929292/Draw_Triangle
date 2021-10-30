@@ -14,7 +14,7 @@ and the Flutter guide for
 
 ## Draw_Triangle
 
-Draw a triangle by setting 2 sides and an angle. Set an offset (-1<x<1,-1<y<1) from which a and b are drawn.
+Draw a triangle by setting 2 sides and an angle. Set an offset (-1<x<1,-1<y<1) from which side a and side b are drawn.
 
 
 ## Features
